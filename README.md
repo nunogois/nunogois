@@ -12,10 +12,11 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-141321?style=flat&logo=nuxt.js&logoColor=00C58E)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-141321?style=flat&logo=Socket.io&logoColor=010101)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-141321?style=flat&logo=.net&logoColor=5C2D91)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-141321?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+![C#](https://img.shields.io/badge/-C%23-141321?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-141321?style=flat&logo=Java&logoColor=e11f22)&nbsp;
 ![C](https://img.shields.io/badge/-C-141321?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-141321?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-141321?style=flat&logo=Microsoft-SQL-Server&logoColor=CC2927)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-141321?style=flat&logo=Microsoft-SQL-Server&logoColor=CC2927)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141321?style=flat&logo=node.js)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-141321?style=flat&logo=jQuery&logoColor=0769AD)&nbsp;
@@ -33,26 +34,36 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Discord](https://img.shields.io/badge/-Discord-141321?style=flat&logo=Discord)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141321?style=flat&logo=adobe-photoshop)&nbsp;
 
-### ⚙️ &nbsp;GitHub Analytics
+### 📊 &nbsp;GitHub Stats
+
 <p align="center">
   <img height="180em" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api?username=nunogois&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
   <img height="180em" style="max-width:100%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nunogois&theme=radical&layout=compact&langs_count=8&hide=css" />
 </p>
 
-<!--
-### 🤝🏻 &nbsp;Connect with Me
 
+### 🤝🏻 &nbsp;Contact / Socials
 
-**nunogois/nunogois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.nunogois.com"><img src="https://img.shields.io/badge/-www.nunogois.com-141321?style=flat&logo=Google-Chrome&logoColor=4285F4"/></a>
+  <a href="mailto:github@nunogois.com"><img src="https://img.shields.io/badge/-github@nunogois.com-141321?style=flat&logo=Gmail&logoColor=D14836"/></a>
+  <a href="https://www.linkedin.com/in/nuno-gois"><img src="https://img.shields.io/badge/-LinkedIn-141321?style=flat&logo=Linkedin&logoColor=0077B5"/></a>
+  <a href="https://nunogois-dev.medium.com"><img src="https://img.shields.io/badge/-Medium-141321?style=flat&logo=Medium&logoColor=12100E"/></a>
+  <a href="https://twitter.com/yokiharo"><img src="https://img.shields.io/badge/-Twitter-141321?style=flat&logo=Twitter&logoColor=1DA1F2"/></a>
+  <a href="https://instagram.com/yokiharo"><img src="https://img.shields.io/badge/-Instagram-141321?style=flat&logo=Instagram&logoColor=E4405F"/></a>
+</p>
 
-Here are some ideas to get you started:
+### 🍵 &nbsp;Support / Tea Offerings
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
---
+<p align="center">
+  Do you wish to support me? Consider making a small donation.
+  <br>
+  All of this is done on my free time and peppermint tea generally helps with my Crohn, making me a happy coder 😊
+  <a href="https://paypal.me/yokiharo"><br><br><img src="https://img.shields.io/badge/-PayPal.Me-141321?style=flat&logo=PayPal&logoColor=E4405F"/></a>
+</p>
+
+<br>
+
+<p align="center">
+  Thank you for your time!
+</p>
