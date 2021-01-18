@@ -36,7 +36,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ### ⚙️ &nbsp;GitHub Analytics
 <p align="center">
   <a href="https://github.com/nunogois">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunogois&show_icons=true&theme=radical" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunogois&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nunogois&theme=radical&layout=compact&hide=css" />
   </a>
 </p>
