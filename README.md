@@ -11,28 +11,39 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Quasar](https://img.shields.io/badge/-Quasar-141321?style=flat&logo=quasar&logoColor=1976D2)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-141321?style=flat&logo=nuxt.js&logoColor=00C58E)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-141321?style=flat&logo=Socket.io&logoColor=010101)&nbsp;
-![.NET](https://img.shields.io/badge/-.NET-141321?style=flat&logo=.net&logoColor=5C2D91)&nbsp;
+![.NET](https://img.shields.io/badge/-.NET-141321?style=flat&logo=.net&logoColor=ba46d8)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-141321?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-141321?style=flat&logo=Java&logoColor=e11f22)&nbsp;
 ![C](https://img.shields.io/badge/-C-141321?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-141321?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-141321?style=flat&logo=Microsoft-SQL-Server&logoColor=CC2927)&nbsp;
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-141321?style=flat&logo=Microsoft-SQL-Server&logoColor=CC2927)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-141321?style=flat&logo=MySQL)&nbsp;
+![SQLite](https://img.shields.io/badge/-SQLite-141321?style=flat&logo=SQLite)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-141321?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
+![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-141321?style=flat&logo=Elasticsearch&logoColor=005571)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141321?style=flat&logo=node.js)&nbsp;
+![Express](https://img.shields.io/badge/-Express-141321?style=flat&logo=Express)&nbsp;
+![ESLint](https://img.shields.io/badge/-ESLint-141321?style=flat&logo=ESLint&logoColor=4B32C3)&nbsp;
+![Webpack](https://img.shields.io/badge/-Webpack-141321?style=flat&logo=Webpack&logoColor=8DD6F9)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-141321?style=flat&logo=jQuery&logoColor=0769AD)&nbsp;
+![Bulma](https://img.shields.io/badge/-Bulma-141321?style=flat&logo=Bulma&logoColor=00D1B2)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141321?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141321?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Stylus](https://img.shields.io/badge/-Stylus-141321?style=flat&logo=Stylus&logoColor=333333)&nbsp;
+![Stylus](https://img.shields.io/badge/-Stylus-141321?style=flat&logo=Stylus)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141321?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141321?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-141321?style=flat&logo=markdown)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-141321?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141321?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-141321?style=flat&logo=Trello&logoColor=0079BF)&nbsp;
-![Slack](https://img.shields.io/badge/-Slack-141321?style=flat&logo=Slack&logoColor=4A154B)&nbsp;
+![Slack](https://img.shields.io/badge/-Slack-141321?style=flat&logo=Slack)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-141321?style=flat&logo=Discord)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141321?style=flat&logo=adobe-photoshop)&nbsp;
+![PowerShell](https://img.shields.io/badge/-PowerShell-141321?style=flat&logo=PowerShell&locoColor=5391FE)&nbsp;
+![Windows](https://img.shields.io/badge/-Windows-141321?style=flat&logo=Windows&logoColor=0078D6)&nbsp;
+![Manjaro](https://img.shields.io/badge/-Manjaro-141321?style=flat&logo=Manjaro)&nbsp;
+![Linux](https://img.shields.io/badge/-Linux-141321?style=flat&logo=Linux)&nbsp;
 
 ### 📊 &nbsp;GitHub Stats
 
@@ -48,9 +59,10 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
   <a href="https://www.nunogois.com"><img src="https://img.shields.io/badge/-www.nunogois.com-141321?style=flat&logo=Google-Chrome&logoColor=4285F4"/></a>
   <a href="mailto:github@nunogois.com"><img src="https://img.shields.io/badge/-github@nunogois.com-141321?style=flat&logo=Gmail&logoColor=D14836"/></a>
   <a href="https://www.linkedin.com/in/nuno-gois"><img src="https://img.shields.io/badge/-LinkedIn-141321?style=flat&logo=Linkedin&logoColor=0077B5"/></a>
-  <a href="https://nunogois-dev.medium.com"><img src="https://img.shields.io/badge/-Medium-141321?style=flat&logo=Medium&logoColor=12100E"/></a>
+  <a href="https://nunogois-dev.medium.com"><img src="https://img.shields.io/badge/-Medium-141321?style=flat&logo=Medium"/></a>
   <a href="https://twitter.com/yokiharo"><img src="https://img.shields.io/badge/-Twitter-141321?style=flat&logo=Twitter&logoColor=1DA1F2"/></a>
   <a href="https://instagram.com/yokiharo"><img src="https://img.shields.io/badge/-Instagram-141321?style=flat&logo=Instagram&logoColor=E4405F"/></a>
+  <a href="https://open.spotify.com/user/yokiharo"><img src="https://img.shields.io/badge/-Spotify-141321?style=flat&logo=Spotify&logoColor=1ED760"/></a>
 </p>
 
 ### 🍵 &nbsp;Support / Tea Offerings
