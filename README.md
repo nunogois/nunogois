@@ -1,14 +1,12 @@
-<!-- ## 👋 &nbsp;Nuno Góis -->
-
 # Nuno Góis
 
 <!--
-## 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me
 
-## 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stack
 -->
 
-## ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 <p>
 <a href="https://github.com/nunogois">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nunogois&show_icons=true&theme=radical" />
@@ -16,9 +14,10 @@
 </a>
 </p>
 
-## 🤝🏻 &nbsp;Connect with Me
-
 <!--
+### 🤝🏻 &nbsp;Connect with Me
+
+
 **nunogois/nunogois** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
