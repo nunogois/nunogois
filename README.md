@@ -6,6 +6,8 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 
 ### 🛠 &nbsp;Tech Stack
 
+<!-- Icons here: https://simpleicons.org/?q=c -->
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=flat&logo=javascript)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-141321?style=flat&logo=vue.js)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-141321?style=flat&logo=quasar&logoColor=1976D2)&nbsp;
