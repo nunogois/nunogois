@@ -1,8 +1,9 @@
-# Nuno Góis
+# Nuno Góis - Full-Stack Developer
 
-<!--
 ### 👨🏻‍💻 &nbsp;About Me
--->
+
+Experienced and driven 31 years old Full-Stack Developer from Portugal. Passionate for the job, love putting skills to the test, facing challenges in a creative and perfectionist way. Experienced with every step of developing and delivering cross-platform, modern and responsive software. Worked with several different technologies across the stack, always willing to learn more and improve skills.
+
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=flat&logo=javascript)&nbsp;
