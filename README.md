@@ -15,6 +15,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Socket.io](https://img.shields.io/badge/-Socket.io-141321?style=flat&logo=Socket.io&logoColor=010101)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-141321?style=flat&logo=.net&logoColor=ba46d8)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-141321?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
+![Python](https://img.shields.io/badge/-Python-141321?style=flat&logo=Python&logoColor=3776AB)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-141321?style=flat&logo=Java&logoColor=e11f22)&nbsp;
 ![C](https://img.shields.io/badge/-C-141321?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-141321?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
