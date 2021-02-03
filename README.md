@@ -63,7 +63,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
   <a href="mailto:github@nunogois.com"><img src="https://img.shields.io/badge/-github@nunogois.com-141321?style=flat&logo=Gmail&logoColor=D14836"/></a>
   <a href="https://www.linkedin.com/in/nuno-gois"><img src="https://img.shields.io/badge/-LinkedIn-141321?style=flat&logo=Linkedin&logoColor=0077B5"/></a>
   <a href="https://nunogois-dev.medium.com"><img src="https://img.shields.io/badge/-Medium-141321?style=flat&logo=Medium"/></a>
-  <a href="https://twitter.com/yokiharo"><img src="https://img.shields.io/badge/-Twitter-141321?style=flat&logo=Twitter&logoColor=1DA1F2"/></a>
+  <a href="https://twitter.com/nunogois_dev"><img src="https://img.shields.io/badge/-Twitter-141321?style=flat&logo=Twitter&logoColor=1DA1F2"/></a>
   <a href="https://instagram.com/yokiharo"><img src="https://img.shields.io/badge/-Instagram-141321?style=flat&logo=Instagram&logoColor=E4405F"/></a>
   <a href="https://open.spotify.com/user/yokiharo"><img src="https://img.shields.io/badge/-Spotify-141321?style=flat&logo=Spotify&logoColor=1ED760"/></a>
 </p>
