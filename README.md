@@ -70,6 +70,8 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 
 ### 🍵 &nbsp;Support / Tea Offerings
 
+<!--See: https://github.com/anuraghazra/github-readme-stats-->
+
 <p align="center">
   Do you wish to support me? Consider making a small donation.
   <br>
