@@ -1,3 +1,5 @@
+<img src="https://www.nunogois.com/thumbnail.png" align="center"/>
+
 # Nuno Góis - Full-Stack Developer
 
 ### 👨🏻‍💻 &nbsp;About Me
