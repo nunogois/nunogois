@@ -1,4 +1,4 @@
-<img src="https://github.com/nunogois/nunogois/blob/main/resources/thumbnail_short.png?raw=true" align="center"/>
+<img src="https://github.com/nunogois/nunogois/blob/main/resources/thumbnail_shortest.png?raw=true" align="center"/>
 
 # Nuno Góis - Full-Stack Developer
 
