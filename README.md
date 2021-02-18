@@ -1,4 +1,4 @@
-<a href="https://www.nunogois.com"><img src="https://github.com/nunogois/nunogois/blob/main/resources/thumbnail_shortest.png?raw=true" align="center"/></a>
+<a href="https://www.nunogois.com"><img src="https://github.com/nunogois/nunogois/blob/main/resources/thumbnail_carbon.png?raw=true"/></a>
 
 # Nuno Góis - Full-Stack Developer
 
