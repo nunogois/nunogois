@@ -13,6 +13,11 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 <!-- Icons here: https://simpleicons.org/?q=c -->
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=flat&logo=typescript)&nbsp;
+![Jest](https://img.shields.io/badge/-Jest-141321?style=flat&logo=jest)&nbsp;
+![React](https://img.shields.io/badge/-React-141321?style=flat&logo=react)&nbsp;
+![React Native](https://img.shields.io/badge/-React%20Native-141321?style=flat&logo=react)&nbsp;
+![Expo](https://img.shields.io/badge/-Expo-141321?style=flat&logo=expo)&nbsp;
 ![Vue](https://img.shields.io/badge/-Vue-141321?style=flat&logo=vue.js)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-141321?style=flat&logo=quasar&logoColor=1976D2)&nbsp;
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-141321?style=flat&logo=nuxt.js&logoColor=00C58E)&nbsp;
@@ -31,6 +36,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Node.js](https://img.shields.io/badge/-Node.js-141321?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-141321?style=flat&logo=Express)&nbsp;
 ![ESLint](https://img.shields.io/badge/-ESLint-141321?style=flat&logo=ESLint&logoColor=4B32C3)&nbsp;
+![Prettier](https://img.shields.io/badge/-Prettier-141321?style=flat&logo=Prettier&logoColor=4B32C3)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-141321?style=flat&logo=Webpack&logoColor=8DD6F9)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-141321?style=flat&logo=jQuery&logoColor=0769AD)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-141321?style=flat&logo=Bulma&logoColor=00D1B2)&nbsp;
@@ -48,9 +54,11 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Discord](https://img.shields.io/badge/-Discord-141321?style=flat&logo=Discord)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-141321?style=flat&logo=adobe-photoshop)&nbsp;
 ![PowerShell](https://img.shields.io/badge/-PowerShell-141321?style=flat&logo=PowerShell&locoColor=5391FE)&nbsp;
+![Android](https://img.shields.io/badge/-Android-141321?style=flat&logo=Android)&nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-141321?style=flat&logo=Windows&logoColor=0078D6)&nbsp;
-![Manjaro](https://img.shields.io/badge/-Manjaro-141321?style=flat&logo=Manjaro)&nbsp;
+![macOS](https://img.shields.io/badge/-macOS-141321?style=flat&logo=macOS&logoColor=0078D6)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-141321?style=flat&logo=Linux)&nbsp;
+![Manjaro](https://img.shields.io/badge/-Manjaro-141321?style=flat&logo=Manjaro)&nbsp;
 
 ### 📊 &nbsp;GitHub Stats
 
