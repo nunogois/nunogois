@@ -32,6 +32,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![MySQL](https://img.shields.io/badge/-MySQL-141321?style=flat&logo=MySQL)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-141321?style=flat&logo=SQLite)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141321?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-141321?style=flat&logo=Redis)&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-141321?style=flat&logo=Elasticsearch&logoColor=005571)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141321?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-141321?style=flat&logo=Express)&nbsp;
@@ -49,6 +50,10 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Markdown](https://img.shields.io/badge/-Markdown-141321?style=flat&logo=markdown)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-141321?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141321?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-141321?style=flat&logo=Jenkins)&nbsp;
+![AWS](https://img.shields.io/badge/-AWS-141321?style=flat&logo=Amazon-AWS)&nbsp;
+![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-141321?style=flat&logo=Oracle&logoColor=F80000)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-141321?style=flat&logo=Docker)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-141321?style=flat&logo=Trello&logoColor=0079BF)&nbsp;
 ![Slack](https://img.shields.io/badge/-Slack-141321?style=flat&logo=Slack)&nbsp;
 ![Discord](https://img.shields.io/badge/-Discord-141321?style=flat&logo=Discord)&nbsp;
