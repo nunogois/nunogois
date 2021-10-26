@@ -45,15 +45,17 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141321?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-141321?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![CSS](https://img.shields.io/badge/-Sass-141321?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-141321?style=flat&logo=Sass&logoColor=CC6699)&nbsp;
 ![Stylus](https://img.shields.io/badge/-Stylus-141321?style=flat&logo=Stylus)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-141321?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-141321?style=flat&logo=github)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-141321?style=flat&logo=gitlab)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-141321?style=flat&logo=markdown)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-141321?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141321?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-141321?style=flat&logo=Amazon-AWS)&nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-141321?style=flat&logo=Oracle&logoColor=F80000)&nbsp;
+![Firebase](https://img.shields.io/badge/-Firebase-141321?style=flat&logo=Firebase&logoColor=FFCA28)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141321?style=flat&logo=Docker)&nbsp;
 ![Jenkins](https://img.shields.io/badge/-Jenkins-141321?style=flat&logo=Jenkins)&nbsp;
 ![Trello](https://img.shields.io/badge/-Trello-141321?style=flat&logo=Trello&logoColor=0079BF)&nbsp;
