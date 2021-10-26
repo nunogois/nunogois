@@ -14,17 +14,18 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141321?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141321?style=flat&logo=typescript)&nbsp;
+![Vue](https://img.shields.io/badge/-Vue-141321?style=flat&logo=vue.js)&nbsp;
+![Quasar](https://img.shields.io/badge/-Quasar-141321?style=flat&logo=quasar&logoColor=1976D2)&nbsp;
+![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-141321?style=flat&logo=nuxt.js&logoColor=00C58E)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-141321?style=flat&logo=jest)&nbsp;
 ![React](https://img.shields.io/badge/-React-141321?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-141321?style=flat&logo=react)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-141321?style=flat&logo=expo)&nbsp;
-![Vue](https://img.shields.io/badge/-Vue-141321?style=flat&logo=vue.js)&nbsp;
-![Quasar](https://img.shields.io/badge/-Quasar-141321?style=flat&logo=quasar&logoColor=1976D2)&nbsp;
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-141321?style=flat&logo=nuxt.js&logoColor=00C58E)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-141321?style=flat&logo=Socket.io&logoColor=010101)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-141321?style=flat&logo=.net&logoColor=ba46d8)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-141321?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-141321?style=flat&logo=Python&logoColor=3776AB)&nbsp;
+![Go](https://img.shields.io/badge/-Go-141321?style=flat&logo=Go&logoColor=00ADD8)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-141321?style=flat&logo=Java&logoColor=e11f22)&nbsp;
 ![C](https://img.shields.io/badge/-C-141321?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-141321?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
