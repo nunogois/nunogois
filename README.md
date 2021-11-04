@@ -34,6 +34,9 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![SQLite](https://img.shields.io/badge/-SQLite-141321?style=flat&logo=SQLite)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141321?style=flat&logo=MongoDB&logoColor=47A248)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-141321?style=flat&logo=Redis)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-141321?style=flat&logo=GraphQL&logoColor=E10098)&nbsp;
+![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-141321?style=flat&logo=Apollo-GraphQL&logoColor=311C87)&nbsp;
+![Contentful](https://img.shields.io/badge/-Contentful-141321?style=flat&logo=Contentful)&nbsp;
 ![Elasticsearch](https://img.shields.io/badge/-Elasticsearch-141321?style=flat&logo=Elasticsearch&logoColor=005571)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-141321?style=flat&logo=node.js)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-141321?style=flat&logo=Express)&nbsp;
@@ -54,6 +57,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-141321?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141321?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-141321?style=flat&logo=Amazon-AWS)&nbsp;
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-141321?style=flat&logo=Google-Cloud)&nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-141321?style=flat&logo=Oracle&logoColor=F80000)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-141321?style=flat&logo=Firebase&logoColor=FFCA28)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-141321?style=flat&logo=Docker)&nbsp;
