@@ -21,6 +21,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![React](https://img.shields.io/badge/-React-141321?style=flat&logo=react)&nbsp;
 ![React Native](https://img.shields.io/badge/-React%20Native-141321?style=flat&logo=react)&nbsp;
 ![Expo](https://img.shields.io/badge/-Expo-141321?style=flat&logo=expo)&nbsp;
+![Svelte](https://img.shields.io/badge/-Svelte-141321?style=flat&logo=svelte)&nbsp;
 ![Socket.io](https://img.shields.io/badge/-Socket.io-141321?style=flat&logo=Socket.io&logoColor=010101)&nbsp;
 ![.NET](https://img.shields.io/badge/-.NET-141321?style=flat&logo=.net&logoColor=ba46d8)&nbsp;
 ![C#](https://img.shields.io/badge/-C%23-141321?style=flat&logo=c-sharp&logoColor=239120)&nbsp;
