@@ -76,7 +76,6 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![macOS](https://img.shields.io/badge/-macOS-141321?style=flat&logo=macOS&logoColor=0078D6)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-141321?style=flat&logo=Linux)&nbsp;
 ![Pop!_OS](https://img.shields.io/badge/-Pop!__OS-141321?style=flat&logo=Pop!_OS)&nbsp;
-![Manjaro](https://img.shields.io/badge/-Manjaro-141321?style=flat&logo=Manjaro)&nbsp;
 
 ### 📊 &nbsp;GitHub Stats
 
