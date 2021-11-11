@@ -46,6 +46,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Prettier](https://img.shields.io/badge/-Prettier-141321?style=flat&logo=Prettier&logoColor=4B32C3)&nbsp;
 ![Webpack](https://img.shields.io/badge/-Webpack-141321?style=flat&logo=Webpack&logoColor=8DD6F9)&nbsp;
 ![jQuery](https://img.shields.io/badge/-jQuery-141321?style=flat&logo=jQuery&logoColor=0769AD)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-141321?style=flat&logo=Tailwind-CSS)&nbsp;
 ![Bulma](https://img.shields.io/badge/-Bulma-141321?style=flat&logo=Bulma&logoColor=00D1B2)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-141321?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-141321?style=flat&logo=HTML5)&nbsp;
