@@ -59,6 +59,7 @@ Experienced and driven 31 years old Full-Stack Developer from Portugal. Passiona
 ![Markdown](https://img.shields.io/badge/-Markdown-141321?style=flat&logo=markdown)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio%20-141321?style=flat&logo=visual-studio&logoColor=5C2D91)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-141321?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-141321?style=flat&logo=Cloudflare)&nbsp;
 ![AWS](https://img.shields.io/badge/-AWS-141321?style=flat&logo=Amazon-AWS)&nbsp;
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-141321?style=flat&logo=Google-Cloud)&nbsp;
 ![Oracle Cloud](https://img.shields.io/badge/-Oracle%20Cloud-141321?style=flat&logo=Oracle&logoColor=F80000)&nbsp;
