@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nunogois/nunogois/main/resources/header_gh.png" alt="banner that says Nuno Góis - Full-Stack Developer alongside a minimalist illustration of Nuno">
+<a href="https://www.nunogois.com" target="_blank"><img src="https://raw.githubusercontent.com/nunogois/nunogois/main/resources/header_gh.png" alt="banner that says Nuno Góis - Full-Stack Developer alongside a minimalist illustration of Nuno"></a>
 
 # Nuno Góis - Full-Stack Developer
 
