@@ -8,6 +8,9 @@ I am a creative and driven 33 year old Full-Stack Developer from Portugal, with 
 
 My passion for technology and providing innovative quality experiences has driven me to become a versatile and creative Full-Stack Developer. What makes me stand out is my creativity and adaptability. More than a developer, I like to think of myself as an inventor and creator. Focused on discovery and experimentation, I feel right at home on quick spikes and hackathons. I love tackling unique challenges, thinking of solutions and coming up with ideas. I usually thrive in a dynamic, smaller-sized collaborative environment where I can learn and innovate while working on challenging, passion-driven projects.
 
+
+[![An image of @nunogois's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nunogois)](https://holopin.io/@nunogois)
+
 ### 🛠 &nbsp;Tech Stack
 
 As a Full-Stack Developer, I constantly seek out new technologies and techniques to learn and explore. I have experience in both front-end and back-end development, and I am always adapting and adding to my knowledge. Thanks to my experience, I am able to quickly adapt to new technologies and frameworks. It's generally easy for me to join a new project and learn the stack being used in a short amount of time, so only looking at the technologies I used in the past may prove somewhat limiting.
