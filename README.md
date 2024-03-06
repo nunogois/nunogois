@@ -113,7 +113,7 @@ Below are some of the technologies I've worked with or interacted with in the pa
 <!--See: https://github.com/anuraghazra/github-readme-stats-->
 
 <p align="center">
-  <img height="180em" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api?username=nunogois&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api?username=nunogois&theme=radical&show_icons=true&include_all_commits=true&count_private=true" />
 </p>
 
 ### 🤝🏻 &nbsp;Contact / Socials
