@@ -114,7 +114,6 @@ Below are some of the technologies I've worked with or interacted with in the pa
 
 <p align="center">
   <img height="180em" style="max-width:100%;" src="https://github-readme-stats.vercel.app/api?username=nunogois&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <!--<img height="180em" style="max-width:100%;" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nunogois&theme=radical&layout=compact&langs_count=8&hide=css&count_private=true" />-->
 </p>
 
 ### 🤝🏻 &nbsp;Contact / Socials
